@@ -35383,7 +35383,7 @@ return A.aG(s,new A.fl(this.tn(b.G(t.w).f.a.a*0.8),q,r,s),B.j,s,s,s,s,s,s,s,s,s,
 tn(a){return A.eb(new A.fS(new A.a_g(a),null),null,null)}}
 A.a_g.prototype={
 $2(a,b){var s,r,q,p,o,n,m,l,k=null,j=this.a,i=t.w,h=a.G(i).f.a.a<800?B.ah:B.a2,g=a.G(i).f.a.a<800?0:2
-g=A.fd(A.nJ("skills.png",k,300),g)
+g=A.fd(A.nJ("assets/skills.png",k,300),g)
 s=A.aX(k,k,50)
 i=a.G(i).f.a.a<800?0:4
 r=A.b9("SKILLS",A.dV(B.i,28,B.Z,1.3),k,k)
